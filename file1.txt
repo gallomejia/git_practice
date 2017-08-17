@@ -3,3 +3,5 @@ Este es el primer archivo
 Este es un cambio en el primer archivo
 
 Cambio de la segunda parte
+
+Se crea una nueva rama branch2
